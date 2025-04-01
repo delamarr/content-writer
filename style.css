@@ -1,0 +1,172 @@
+.first h1{
+    padding: 30px;
+    text-align: center;
+}
+.first p{
+    padding: 20px;
+}
+
+.second{
+    text-align: center;
+    margin-top: 50px;
+}
+.second button{
+    margin-bottom: 30px;
+}
+.second a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer{
+    text-align: center; 
+    position: relative; 
+    top: 140px;
+}
+
+/*HEALTH BLOG POST*/
+
+.Hh1 h1{
+    text-align: center; 
+    padding: 20px;
+}
+.Hh1 h5{
+    text-align: center; 
+    padding: 20px;
+}
+.Hh1{
+    background-color: greenyellow;
+    font-size: 16px;
+    border-radius: 0 0 10px 10px;
+}
+
+.motherContainer{
+    background-color: white; 
+    margin: auto;
+    padding: 50px;
+    width: 86%; 
+    border-radius: 20px;
+}
+
+.motherContainer h4{
+    text-align: center; 
+    margin-bottom: 20px;
+}
+
+.motherContainer img{
+    width: 100%; 
+    height: 100%;
+    padding: 20px;
+    margin-bottom: 50px
+}
+
+#ctxt{
+    padding: 20px;
+    font-size: 20px;
+}
+
+/*TECH/AI BLOGPOST*/
+
+.Th1 h1{
+    text-align: center; 
+    padding: 20px;
+}
+
+.Th1 h5{
+    text-align: center; 
+    padding: 20px;
+}
+
+.Th1{
+    background-color: #0B0B45;
+    color: blue;
+    font-size: 16px;
+    border-radius: 0 0 10px 10px;
+}
+
+.TmotherContainer{
+    background-color: white; 
+    margin: auto;
+    padding: 50px;
+    width: 86%; 
+    border-radius: 20px;
+}
+
+.TmotherContainer h4{
+    text-align: center; 
+    margin-bottom: 20px;
+}
+
+.TmotherContainer img{
+    width: 100%; 
+    height: 100%;
+    padding: 20px;
+    margin-bottom: 50px
+}
+
+
+
+/*YOUTUBE SCRIPT*/
+
+
+.Yh1 h1{
+    text-align: center; 
+    padding: 20px;
+    color: WHITE;
+}
+
+.Yh1 h5{
+    text-align: center; 
+    padding: 20px;
+    color: WHITE
+}
+
+.Yh1{
+    background-color: red;
+    font-size: 16px;
+    border-radius: 0 0 10px 10px;
+}
+
+.YmotherContainer{
+    background-color: white; 
+    margin: auto;
+    padding: 50px;
+    width: 86%; 
+    border-radius: 20px;
+}
+
+.YmotherContainer h4{
+    text-align: center; 
+    margin-bottom: 20px;
+}
+
+.YmotherContainer img{
+    width: 100%; 
+    height: 100%;
+    padding: 20px;
+    margin-bottom: 50px
+}
+
+
+
+
+/*PROFILE*/
+
+
+.ptxt{
+    margin-top: 110px;
+   
+}
+
+.ptxt p{
+    float: left;
+    font-size: 20px;
+    width: 60%;
+}
+
+.ptxt img{
+    width: 40%; 
+    float: left; 
+    position: relative;
+    top: 100px;
+}
